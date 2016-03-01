@@ -1,0 +1,19 @@
+{
+    "name": "digo-typescript",
+    "version": "0.1.0",
+    "repository": "http://github.com/digojs/digo-typescript",
+    "description": "digo 插件：使用 TypeScript 编译 TypeScript",
+    "keywords": [
+        "digo plugin",
+        "typescript",
+        "ts"
+    ],
+    "license": "MIT",
+    "author": "xuld <xuld@vip.qq.com>",
+    "dependencies": {
+        "typescript": "latest"
+    },
+    "files": [
+        "index.js"
+    ]
+}
